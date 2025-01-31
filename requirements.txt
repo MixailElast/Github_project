@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg2-binary
+pytest
+pytest-cov
+flake8
+autopep8
+mypy
